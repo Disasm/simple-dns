@@ -1,4 +1,7 @@
 # Simple DNS
+## Unreleased
+- Fix TXT record parsing
+
 ## 0.4.4
 - Fix PTR parsing with compression
 
